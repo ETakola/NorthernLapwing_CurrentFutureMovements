@@ -1,4 +1,5 @@
-# FLARE (Futre Lapwing Responses to Expansions)
+# FLARE (Future Lapwing Responses to Expansions)
+This project was created and executed by Jannatul Ferdous (@JannatulMoon0204) during a Research Assistant position in the BIOECOS group in the Department of Landscape Ecology at Helmholtz Centre for Environmental Research (UFZ).
 
 ## Project Overview
 
