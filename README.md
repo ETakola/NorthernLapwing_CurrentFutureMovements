@@ -7,6 +7,7 @@ This repository hosts the codebase, documentation, and supporting data for a mov
 Here is a picture of a Northern Lapwing: https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400
 
 The folder "EsguerraJ-HabitatSelection" contains the material for the Master thesis of Johanna Esguerra. The thesis is available at https://opus.bsz-bw.de/hft/frontdoor/index/index/start/0/rows/10/sortfield/score/sortorder/desc/searchtype/simple/query/esguerra/docId/988 and the code and data for the scientific publication of the thesis.
+
 The folder "FerdousJ-FLARE-BirdAgent" contains the report, code and data of the project FLARE (Futre Lapwing Responses to Expansions), created and executed by Jannatul Ferdous. 
 
 
