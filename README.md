@@ -32,18 +32,12 @@ This project leverages IBM to integrate empirical data with theoretical models t
 ## Project Objectives
 
 - Develop a robust IBM framework for simulating Northern Lapwing ecology across breeding seasons.
-- Parameterize the model using field-derived data on life history traits, habitat preferences, and movement patterns.
-- Quantify the relative influence of environmental, demographic, and behavioral factors on reproductive success and survival.
+- Quantify the relative influence of environmental factors on movement patterns.
 - Evaluate conservation scenarios under alternative land use and climate regimes.
 
 ## Methodological Framework
 
 - **Spatial resolution**: Grid-based landscape incorporating habitat heterogeneity (e.g., grasslands, croplands, wet areas).
-- **Temporal resolution**: Daily time steps across breeding season (March–August).
+- **Temporal resolution**: Daily time steps across breeding season (March–August) and non-breeding season.
 - **Agents**: Individuals with defined life history attributes and state variables (e.g., age, location, reproductive status).
-- **Processes**:
-  - Nest-site selection based on habitat suitability and conspecific attraction
-  - Movement and foraging behavior influenced by resource availability
-  - Predation risk modeled as a stochastic function of habitat and predator density
-  - Reproduction with stage-structured success (laying, incubation, fledging)
-  - Mortality influenced by intrinsic and extrinsic factors
+- **Statistics**: We used agent modelling and step-selection functions to explore the movement patterns of individual birds.
