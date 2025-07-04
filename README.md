@@ -6,6 +6,8 @@ This repository hosts the codebase, documentation, and supporting data for an in
 
 The IBM framework enables mechanistic exploration of spatially and temporally explicit processes, allowing for a more realistic representation of species-environment interactions than aggregate-level models. By capturing individual variability in behavior, movement, reproduction, and survival, we aim to identify critical drivers of lapwing population trends and assess conservation and land management interventions.
 
+![Descriptive alt text]([https://your-image-url.com/image.png](https://www.rspb.org.uk/birds-and-wildlife/lapwing))
+
 ## Scientific Motivation
 
 The Northern Lapwing is a ground-nesting shorebird of conservation concern across its range, especially in Western Europe. Key threats include:
