@@ -34,18 +34,6 @@ This project leverages IBM to integrate empirical data with theoretical models t
 - Quantify the relative influence of environmental, demographic, and behavioral factors on reproductive success and survival.
 - Evaluate conservation scenarios under alternative land use and climate regimes.
 
-## Repository Structure
-
-├── /data/ # Empirical data (e.g., nest locations, habitat maps, survival estimates)
-├── /models/ # Core IBM codebase (agent definitions, behavior rules, environment modules)
-├── /scenarios/ # Scripts to run and analyze intervention or environmental change scenarios
-├── /validation/ # Model calibration and validation routines
-├── /analysis/ # Post-simulation data analysis (e.g., R or Python scripts)
-├── /docs/ # Supplementary materials and references
-├── main_simulation.R # Entry point for running baseline simulations (example in R)
-└── README.md # Project overview
-
-
 ## Methodological Framework
 
 - **Spatial resolution**: Grid-based landscape incorporating habitat heterogeneity (e.g., grasslands, croplands, wet areas).
