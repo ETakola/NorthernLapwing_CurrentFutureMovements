@@ -6,7 +6,7 @@ This repository hosts the codebase, documentation, and supporting data for an in
 
 The IBM framework enables mechanistic exploration of spatially and temporally explicit processes, allowing for a more realistic representation of species-environment interactions than aggregate-level models. By capturing individual variability in behavior, movement, reproduction, and survival, we aim to identify critical drivers of lapwing population trends and assess conservation and land management interventions.
 
-Hwew ia a picture of a Northern Lapwing: https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400
+Here ia a picture of a Northern Lapwing: https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400
 
 ## Scientific Motivation
 
