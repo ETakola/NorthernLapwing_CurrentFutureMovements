@@ -2,9 +2,7 @@
 
 ## Overview
 
-This repository hosts the codebase, documentation, and supporting data for an individual-based modelling (IBM) project focused on the Northern Lapwing (_Vanellus vanellus_). The goal of this project is to simulate lapwing behavioral ecology at the individual level to investigate population dynamics under varying environmental and anthropogenic conditions.
-
-The IBM framework enables mechanistic exploration of spatially and temporally explicit processes, allowing for a more realistic representation of species-environment interactions than aggregate-level models. By capturing individual variability in behavior, movement, reproduction, and survival, we aim to identify critical drivers of lapwing population trends and assess conservation and land management interventions.
+This repository hosts the codebase, documentation, and supporting data for a movement ecology project focused on the Northern Lapwing (_Vanellus vanellus_). The goal of this project is to model and simulate lapwing movement at the individual level to investigate population dynamics under varying environmental and anthropogenic conditions.
 
 Here ia a picture of a Northern Lapwing: https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400
 
@@ -16,11 +14,11 @@ The Northern Lapwing is a ground-nesting shorebird of conservation concern acros
 - **Predation pressure**, particularly from generalist mesopredators in human-modified landscapes.
 - **Climate variability**, affecting breeding phenology and resource availability.
 
-Despite conservation efforts, population declines persist, in part due to complex and interacting ecological mechanisms that are difficult to assess through observational studies alone. Individual-based models provide a tool to explore such complexity.
+Despite conservation efforts, population declines persist, in part due to complex and interacting ecological mechanisms that are difficult to assess through observational studies alone. 
 
 ## Project Objectives
 
-- Develop a robust IBM framework for simulating Northern Lapwing ecology across breeding seasons.
+- Develop a robust IBM framework and use step selection functions for simulating Northern Lapwing ecology across space and time.
 - Quantify the relative influence of environmental factors on movement patterns.
 - Evaluate conservation scenarios under alternative land use and climate regimes.
 
@@ -35,17 +33,16 @@ Despite conservation efforts, population declines persist, in part due to comple
 
 Step Selection Functions (SSFs) are a powerful analytical approach used to model animal movement decisions by quantifying how individuals select their next step in relation to environmental features and constraints. Unlike simple random or rule-based movement models, SSFs incorporate empirical movement data to probabilistically describe habitat preferences and avoidance behaviors at a fine spatial and temporal scale.
 
-In the context of Northern Lapwings, SSFs enable:
+Using SSFs allows us to:
 
-- **Mechanistic insight into movement behavior**, capturing how individuals respond to heterogeneous landscapes, such as habitat patches, predator presence, or agricultural disturbances.
-- **Integration of spatially explicit environmental variables** (e.g., vegetation type, land use, predator density) directly into movement decision processes.
-- **Improved realism in Individual-Based Models (IBMs)** by grounding movement rules in observed patterns rather than assumptions.
-- **Evaluation of landscape connectivity and habitat use**, essential for identifying critical areas for conservation or management interventions.
-- **Scenario testing under changing environmental conditions**, such as habitat loss or climate change, by simulating how movement behavior may shift in response to altered landscapes.
+- **Capture fine-scale movement decisions**, reflecting how individuals navigate habitat features, avoid predators, and respond to disturbances.
+- **Incorporate spatially explicit environmental variables** directly into movement modeling, improving ecological realism.
+- **Allow assessment of habitat connectivity and landscape use**, which are crucial for identifying priority areas for conservation.
+- **Facilitate exploration of movement responses to environmental change**, enabling predictions under scenarios like habitat modification or climate shifts.
 
 ## Why Individual-Based Modelling?
 
-IBMs are particularly suitable for studying species like the Northern Lapwing due to:
+IBMs are particularly suitable for studying population-level responses:
 
 - **Behavioral and demographic heterogeneity**: Individuals vary in age, reproductive status, habitat preference, and movement decisions.
 - **Fine-scale spatial dynamics**: Nest-site selection, predator avoidance, and territory establishment are highly spatial.
@@ -53,4 +50,3 @@ IBMs are particularly suitable for studying species like the Northern Lapwing du
 - **Management scenario testing**: Evaluate the impact of conservation interventions such as agri-environment schemes, predator control, and habitat restoration.
 
 This project leverages IBM to integrate empirical data with theoretical models to inform adaptive management strategies.
-
