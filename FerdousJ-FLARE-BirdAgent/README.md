@@ -3,7 +3,7 @@ This project was created and executed by Jannatul Ferdous (@JannatulMoon0204) du
 
 ## Project Overview
 
-This project simulates movement patterns of the Northern Lapwing (_Vanellus vanellus_) using an Individual-Based Modelling (IBM) approach. By combining GPS tracking data with habitat information derived from landcover raster data, it explores how these birds interact with their environment and how habitat preferences influence their movement behavior.
+This project simulates movement patterns of the Northern Lapwing (_Vanellus vanellus_) using an Individual-Based Modelling (IBM) approach. By combining GPS tracking data with habitat information derived from landcover raster data, it explores how these birds interact with their environment and how habitat preferences influence their movement behavior. We explored how the expansion of forests in the Netherlands can affect the movement of northern lapwings.
 
 ## Features
 
