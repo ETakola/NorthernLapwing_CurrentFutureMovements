@@ -1,4 +1,4 @@
-#FLARE (Futre Lapwing Responses to Expansions)
+# FLARE (Futre Lapwing Responses to Expansions)
 
 ## Project Overview
 
