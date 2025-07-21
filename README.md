@@ -4,7 +4,7 @@
 
 This repository hosts the codebase, documentation, and supporting data for a movement ecology project focused on the Northern Lapwing (_Vanellus vanellus_). The goal of this project is to model and simulate lapwing movement at the individual level to investigate population dynamics under varying environmental and anthropogenic conditions.
 
-_Here is a picture of a Northern Lapwing: https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400_
+_Here is a picture of a Northern Lapwing (Source:https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400_)
 ![1654097821]( https://cdn.download.ams.birds.cornell.edu/api/v1/asset/609204339/2400)
 
 The folder "EsguerraJ-HabitatSelection" contains the material for the Master thesis of Johanna Esguerra. The thesis is available at https://opus.bsz-bw.de/hft/frontdoor/index/index/start/0/rows/10/sortfield/score/sortorder/desc/searchtype/simple/query/esguerra/docId/988 and the code and data for the scientific publication of the thesis.
