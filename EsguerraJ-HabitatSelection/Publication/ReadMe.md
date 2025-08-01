@@ -1,4 +1,4 @@
-This is the folder that contains data and code for the manuscript of this project.  
+This is the folder that contains data and code for the manuscript of the project.  
 # "Tracking the hidden niches: Movement-based insights into northern lapwing intraspecific variation and conservation" 
  Explanation of the file names
  - Data_preparation.R: A file to extract environmental data.
