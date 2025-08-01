@@ -1,6 +1,5 @@
- This is the folder that contains data and code for the manuscript 
- 
- #"Tracking the hidden niches: Movement-based insights into northern lapwing intraspecific variation and conservation"
+#"Tracking the hidden niches: Movement-based insights into northern lapwing intraspecific variation and conservation" 
+This is the folder that contains data and code for the manuscript of this project.  
  Explanation of the file names
  - Data_preparation.R: A file to extract environmental data.
  - Generate_ERA5climate.js: Generate climate data: Temperature, precipitation, u and v components of wind. From the dataset ERA5-Land Hourly - ECMWF Climate Reanalysis.
