@@ -8,4 +8,3 @@ This is the folder that contains data and code for the manuscript
  - script_SWI_Copernicus_download-plot.txt: Script to download Soil Water Index (SWI) 1km daily NetCDF files.
  - ssf_dat_sfc10k.rds: Movement and environmental data, ready for the analyses. Input to lapwings_ssf_rpt_plots_20250731.R.
 
-NextCloud link: https://nc.ufz.de/apps/files/files?dir=/Shared%20with%20me/NorthernLapwing_HabitatSelectionPublication
